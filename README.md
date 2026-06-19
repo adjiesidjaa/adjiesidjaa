@@ -1,9 +1,9 @@
 <div align="center">
   
-# 👋 Hi 皆さん, I'm Vazha Khayri! 
+# 👋 Hi 皆さん, I'm Adjie! 
 
 ### 🎓 Information System Student @ Universitas Indonesia
-### 💻 Full-Stack Developer & Cybersecurity Enthusiast 
+### 💻 Full-Stack Developer & DevOps Enthusiast
 </div>
 
 ---
