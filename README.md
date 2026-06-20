@@ -22,9 +22,9 @@ Building scalable web applications, automating workflows, and turning ideas into
 
 ---
 
-🚀 Featured Portfolio
-🔗 Portfolio Website: https://adjiesidjaa.my.id
-A collection of my projects, experiences, achievements, and technical explorations in software engineering, cloud computing, and product development.
+# 🔗 Featured Portfolio
+* Portfolio Website: https://adjiesidjaa.my.id
+* A collection of my projects, experiences, achievements, and technical explorations in software engineering, cloud computing, and product development.
 
 ---
 
