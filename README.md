@@ -4,7 +4,7 @@
 
 ### 🎓 Information Systems Student @ Universitas Indonesia
 
-### 💻 Full-Stack Developer • DevOps Enthusiast • Tech Leader
+### 💻 Full-Stack Developer • DevOps Enthusiast
 
 Building scalable web applications, automating workflows, and turning ideas into impactful digital products.
 
